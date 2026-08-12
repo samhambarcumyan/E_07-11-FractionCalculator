@@ -1,0 +1,11 @@
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\bin\Debug\net10.0\FractionLib.deps.json
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\bin\Debug\net10.0\FractionLib.dll
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\bin\Debug\net10.0\FractionLib.pdb
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\FractionLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\FractionLib.AssemblyInfoInputs.cache
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\FractionLib.AssemblyInfo.cs
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\FractionLib.csproj.CoreCompileInputs.cache
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\FractionLib.dll
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\refint\FractionLib.dll
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\FractionLib.pdb
+C:\Users\Hambardzumyan\Desktop\calculator\WpfApp1\FractionLib\obj\Debug\net10.0\ref\FractionLib.dll
